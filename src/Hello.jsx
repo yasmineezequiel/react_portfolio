@@ -4,7 +4,8 @@ const Hello = () => {
   return (
   <div className="ui main container">
     <h1>
-      Hello World
+      Soon my full Portfolio as a 
+      Junior Developer will be available here!
     </h1>
   </div> 
   )

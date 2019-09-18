@@ -1,20 +1,32 @@
 [
   {
     "id": 1,
-    "name": "My First Website",
-    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
-    "description": "This was my first project. The guy lost, but won the popular vote!"
+    "name": "ATM",
+    "image": "https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80",
+    "description": "Developing backend function of an ATM with Ruby on Rails"
   },
   {
     "id": 2,
-    "name": "UI Design",
-    "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "Designing user interfaces is fun. I want to learn more about that..."
+    "name": "Address Book",
+    "image": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "description": "Working with JavaScript and YML"
   },
   {
     "id": 3,
-    "name": "Mobile UX",
+    "name": "FizzBuzz",
     "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+    "description": "Developing a FizzBuzz maths game in JavaScript"
+  },
+  {
+    "id": 4,
+    "name": "BMI",
+    "image": "https://images.unsplash.com/photo-1559724087-a45f6a7a35d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1035&q=80",
+    "description": "Calculating Body Mass Index with JavaScript"
+  },
+  {
+  "id": 5,
+  "name": "Portfolio",
+  "image": "https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+  "description": "Building a webpage with REACT"
   }
 ]
